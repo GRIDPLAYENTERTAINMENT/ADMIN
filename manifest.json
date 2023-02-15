@@ -1,6 +1,6 @@
 {
-    "name": "grid_play",
-    "short_name": "grid_play",
+    "name": "admin",
+    "short_name": "admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
